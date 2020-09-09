@@ -8,4 +8,5 @@ def key_for_min_value(name_hash)
       minimum = {key => num}
     end
     minimum.first[0]
+  end
 end
